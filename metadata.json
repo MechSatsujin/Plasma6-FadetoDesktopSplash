@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "kaisenvill@gmail.com",
+                "Name": "Kaisen Villarin"
+            }
+        ],
+        "Category": "",
+        "Description": "Fade to desktop. Nothing in it except for a black screen.",
+        "Id": "io.mechsatsujin.fadetodesktop",
+        "License": "GPLv2+",
+        "Name": "Fade to Desktop",
+        "Website": "https://github.com/MechSatsujin"
+    }
+}
