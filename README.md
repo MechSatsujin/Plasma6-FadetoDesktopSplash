@@ -1,6 +1,6 @@
 # Plasma 6 Fade to Desktop Splash
 A simple splash that only fades to desktop with nothing on the splash screen. Inspired by the Cinnamon Desktop and Budgie Desktop's login animation.
-![Preview](https://github.com/MechSatsujin/Plasma6-FadetoDesktopSplash/blob/main/contents/previews/previewtwo.png)
+![Preview](https://github.com/MechSatsujin/Plasma6-FadetoDesktopSplash/blob/main/previewtwo.png)
 
 # Install
 1. Download the [release file](https://github.com/MechSatsujin/Plasma6-FadeToDesktopSplash/releases)
